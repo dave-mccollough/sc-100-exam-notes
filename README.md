@@ -9,3 +9,4 @@
 ## Notes
 
 - [Design a resiliency strategy for ransomware and other attacks](01-design-reslilency-strategy)
+- [Design solutions that align with MCRA and MCSB](02-design-solutions-mcra-mcsb)
