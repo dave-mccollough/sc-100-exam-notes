@@ -7,3 +7,5 @@
 - [Udemy](https://www.udemy.com/course/microsoft-cybersecurity-architect-course-with-sims/?couponCode=PMNVD1525)
 
 ## Notes
+
+- [Design a resiliency strategy for ransomware and other attacks](01-design-reslilency-strategy)
