@@ -10,3 +10,5 @@
 
 - [Design a resiliency strategy for ransomware and other attacks](01-design-reslilency-strategy)
 - [Design solutions that align with MCRA and MCSB](02-design-solutions-mcra-mcsb)
+- [Design solutions that align with the Microsoft CAF and WAF frameworks](03-design-solutions-caf-waf)
+  
