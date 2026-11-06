@@ -1,0 +1,74 @@
+# IaaS, PaaS and SaaS
+
+- IaaS
+  - Infrastructure as a service
+    - IaaS is a cloud computing model that provides on-demand servers, storage, and networking without the need for physical hardware.
+    - Cloud Provider Responsibilities:
+      - Physical data centers and security
+      - Physical servers, storage, and networking
+      - Hypervisor and virtualization infrastructure
+      - Hardware maintenance and availability
+    - Customer Responsibilities:
+      - Operating systems and patching
+      - Applications and workloads
+      - Data protection and encryption
+      - Identity and access management (IAM)
+      - Network security configuration
+      - Security monitoring and compliance
+  - Use Cases:
+    - Virtual Machines: Hosting servers and custom workloads.
+    - Disaster Recovery: Backup and recovery infrastructure.
+    - Development & Testing: Creating temporary test environments.
+    - Lift-and-Shift Migration: Moving on-premises applications to the cloud.
+    - High-Performance Computing: Running compute-intensive workloads.
+    - Examples: Azure Virtual Machines, Amazon EC2, Google Compute Engine.
+
+- PaaS
+  - A cloud computing model where the provider manages the underlying infrastructure, operating systems, and runtime environments, allowing customers to focus on developing, deploying, and managing applications.
+    - Cloud Provider Responsibilities:
+      - Physical infrastructure and data centers
+      - Servers, storage, and networking
+      - Operating systems and patching
+      - Runtime environments and middleware
+      - Platform maintenance and availability
+      - Security of the underlying platform
+    - Customer Responsibilities:
+      - Application code and security
+      - Data protection and classification
+      - Identity and access management (IAM)
+      - Application configuration
+      - Access controls and permissions
+      - Compliance and data governance
+  - Use Cases:
+    - Application Development: Building and deploying web or mobile applications.
+    - API Hosting: Developing and managing application APIs.
+    - Managed Databases: Hosting databases without managing servers.
+    - Application Integration: Connecting applications and services.
+    - Rapid Prototyping: Quickly developing and testing new solutions.
+    - Examples: Azure App Service, Azure SQL Database, Google App Engine, AWS Elastic Beanstalk.
+
+- SaaS  
+  - A cloud computing model where the provider delivers fully managed applications over the internet, allowing customers to use the software without managing the underlying infrastructure, platform, or application maintenance.
+  - Cloud Provider Responsibilities:
+    - Physical infrastructure and data centers
+    - Servers, storage, and networking
+    - Operating systems and patching
+    - Application hosting and maintenance
+    - Software updates and security patches
+    - Platform and application availability
+    - Security of the underlying service
+  - Customer Responsibilities:
+    - Data protection and classification
+    - Identity and access management (IAM)
+    - User access controls and permissions
+    - Application security configurations
+    - Data governance and retention policies
+    - Compliance with applicable regulations
+    - Endpoint security and user awareness
+  - Use Cases:
+    - Productivity & Collaboration: Email, document sharing, and team communication.
+    - Customer Relationship Management: Managing sales and customer interactions.
+    - Enterprise Resource Planning: Managing finance, HR, and business operations.
+    - Security Management: Cloud-based identity, endpoint protection, and security monitoring.
+    - IT Service Management: Managing incidents, service requests, and IT workflows.
+    - Examples: Microsoft 365, Salesforce, ServiceNow, Google Workspace.
