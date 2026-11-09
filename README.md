@@ -14,4 +14,5 @@
 - [Design solutions that align with the Microsoft CAF and WAF frameworks](03-design-solutions-caf-waf)
 - [Design solutions for Security Operations](04-design-solutions-secops)
 - [Design solutions for Identity and Access](05-design-solutions-identity-access)
+- [Design solutions for securing privileged access](06-design-solutions-priviledged-access)
   
