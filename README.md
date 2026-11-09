@@ -15,4 +15,5 @@
 - [Design solutions for Security Operations](04-design-solutions-secops)
 - [Design solutions for Identity and Access](05-design-solutions-identity-access)
 - [Design solutions for securing privileged access](06-design-solutions-priviledged-access)
+- [Design solutions for regulatory compliance](07-design-solutions-regulatory-compliance)
   
