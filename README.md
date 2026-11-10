@@ -17,4 +17,5 @@
 - [Design solutions for securing privileged access](06-design-solutions-priviledged-access)
 - [Design solutions for regulatory compliance](07-design-solutions-regulatory-compliance)
 - [Design solutions for security posture management in hybrid and multicloud environments](08-design-solutions-hybrid-multicloud)
+- [Specify requirements for securing server and client endpoints](09-secure-server-client-endpoints)
   
