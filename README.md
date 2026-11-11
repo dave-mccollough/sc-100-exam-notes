@@ -19,4 +19,5 @@
 - [Design solutions for security posture management in hybrid and multicloud environments](08-design-solutions-hybrid-multicloud)
 - [Specify requirements for securing server and client endpoints](09-secure-server-client-endpoints)
 - [Specify requirements for securing SaaS, PaaS, and IaaS services](10-secure-saas-paas-iaas)
+- [Evaluate solutions for securing Microsoft 365](11-design-solutions-secure-m365)
   
