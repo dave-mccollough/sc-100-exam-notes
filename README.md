@@ -20,4 +20,5 @@
 - [Specify requirements for securing server and client endpoints](09-secure-server-client-endpoints)
 - [Specify requirements for securing SaaS, PaaS, and IaaS services](10-secure-saas-paas-iaas)
 - [Evaluate solutions for securing Microsoft 365](11-design-solutions-secure-m365)
+- [Design solutions for securing applications](12-design-solutions-securing-apps)
   
